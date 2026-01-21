@@ -1,32 +1,37 @@
 import { motion } from "framer-motion";
 import { Gift } from "lucide-react";
+import planoLeituraImg from "@/assets/webp_images/bonus_plano_leitura.webp";
+import licoesJesusImg from "@/assets/webp_images/bonus_licoes_jesus.webp";
+import parabolasImg from "@/assets/webp_images/bonus_parabolas.webp";
+import boasManeirasImg from "@/assets/webp_images/bonus_boas_maneiras.webp";
 
 const bonuses = [
   {
     title: "Plano de Leitura Bíblico Infantil",
     oldPrice: "R$ 19,90",
     desc: "Um plano simples e organizado para guiar a leitura das histórias bíblicas",
-    img: "https://i.postimg.cc/2yyLBgVW/Chat_GPT_Image_Jan_21_2026_02_10_28_PM.png"
+    img: planoLeituraImg
   },
   {
     title: "Lições de Jesus",
     oldPrice: "R$ 24,90",
     desc: "Um conjunto de histórias e ensinamentos de Jesus explicados de forma acessível para crianças",
-    img: "https://i.postimg.cc/MHHfjgvy/Chat_GPT_Image_Jan_21_2026_02_12_49_PM.png"
+    img: licoesJesusImg
   },
   {
     title: "Parábolas de Jesus",
     oldPrice: "R$ 25,20",
     desc: "As principais parábolas de Jesus adaptadas para o universo infantil",
-    img: "https://i.postimg.cc/5yyQFD6X/Chat_GPT_Image_Jan_21_2026_02_12_54_PM.png"
+    img: parabolasImg
   },
   {
     title: "Boas Maneiras conforme a Bíblia",
     oldPrice: "R$ 35,00",
     desc: "Histórias e exemplos bíblicos que ensinam respeito, obediência, gentileza e convivência",
-    img: "https://i.postimg.cc/Y00LmThQ/Chat_GPT_Image_Jan_21_2026_02_12_58_PM.png"
+    img: boasManeirasImg
   }
 ];
+
 
 
 export default function Bonuses() {
@@ -59,6 +64,7 @@ export default function Bonuses() {
                     <img
                       src={bonus.img}
                       alt={bonus.title}
+                      loading="lazy"
                       className="max-h-full w-full object-cover"
                     />
                   </div>

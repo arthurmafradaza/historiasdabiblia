@@ -1,6 +1,7 @@
 import { Check } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import bookMockup from "@assets/generated_images/3d_children's_bible_story_book_mockup.png";
+import heroMockupImg from "@/assets/webp_images/hero_mockup.webp";
 import { motion } from "framer-motion";
 
 export default function Hero() {
@@ -38,8 +39,10 @@ export default function Hero() {
         >
           <div className="absolute inset-0 bg-brand-pink/20 blur-[60px] rounded-full z-0 transform translate-y-10" />
           <img
-            src="https://i.postimg.cc/0QWqkrDQ/Chat-GPT-Image-20-de-jan-de-2026-20-18-03.jpg"
+            src={heroMockupImg}
             alt="150 Histórias da Bíblia Book Mockup"
+            loading="eager"
+            fetchPriority="high"
             className="relative z-10 w-full drop-shadow-2xl hover:scale-105 transition-transform duration-500 rounded-2xl"
           />
         </motion.div>

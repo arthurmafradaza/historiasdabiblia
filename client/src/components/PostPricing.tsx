@@ -6,6 +6,7 @@ import payImg from "@assets/generated_images/secure_payment_icon_with_credit_car
 import mailImg from "@assets/generated_images/email_icon_with_a_paper_plane_and_envelope.png";
 import accessImg from "@assets/generated_images/download_icon_with_mobile_phone_and_document.png";
 import anaMariaImg from "@assets/generated_images/professional_woman_teacher_portrait.png";
+import isabeleImg from "@/assets/webp_images/isabele.webp";
 
 export default function PostPricing() {
   return (
@@ -192,7 +193,7 @@ export default function PostPricing() {
       <section className="py-16 bg-[#E3F2FD]/50">
         <div className="container max-w-[600px] mx-auto px-4 text-center">
           <div className="w-48 h-48 mx-auto mb-8 rounded-full border-4 border-brand-purple/20 p-1 bg-white shadow-xl">
-            <img src="https://i.postimg.cc/BvFgZzFs/mulher-de-tiro-medio-passando-bons-momentos-ao-ar-livre-23-2150757174.avif" alt="Isabele" className="w-full h-full rounded-full object-cover" />
+            <img src={isabeleImg} alt="Isabele" loading="lazy" className="w-full h-full rounded-full object-cover" />
           </div>
           <h2 className="font-heading font-extrabold text-3xl text-black mb-4">Sobre Isabele ✨</h2>
           <div className="space-y-6 text-lg text-gray-700 font-sans leading-relaxed">

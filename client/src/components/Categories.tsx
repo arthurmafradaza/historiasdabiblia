@@ -1,5 +1,10 @@
 import { motion } from "framer-motion";
 import { Button } from "@/components/ui/button";
+import antigoTestamentoImg from "@/assets/webp_images/antigo_testamento.webp";
+import novoTestamentoImg from "@/assets/webp_images/novo_testamento.webp";
+import valoresVirtudesImg from "@/assets/webp_images/valores_virtudes.webp";
+import heroisFeImg from "@/assets/webp_images/herois_fe.webp";
+import oracoesImg from "@/assets/webp_images/oracoes.webp";
 
 type CategoryItem = {
   title: string;
@@ -15,37 +20,38 @@ const categories: CategoryItem[] = [
     desc: "Histórias clássicas como Noé, Moisés e a Criação.",
     color: "bg-brand-yellow-light",
     border: "border-t-[#F57F17]",
-    img: "https://i.postimg.cc/m2m7k2qT/Whats_App_Image_2026_01_21_at_11_12_44.jpg"
+    img: antigoTestamentoImg
   },
   {
     title: "Novo Testamento",
     desc: "A vida de Jesus, seus milagres e parábolas.",
     color: "bg-brand-blue-light",
     border: "border-t-[#1565C0]",
-    img: "https://i.postimg.cc/dt5G3tXq/Whats_App_Image_2026_01_21_at_11_15_36.jpg"
+    img: novoTestamentoImg
   },
   {
     title: "Valores e Virtudes",
     desc: "Ensinamentos sobre amor, bondade e respeito.",
     color: "bg-brand-green-light",
     border: "border-t-[#2E7D32]",
-    img: "https://i.postimg.cc/fT8YyTFD/Whats_App_Image_2026_01_21_at_11_18_15.jpg"
+    img: valoresVirtudesImg
   },
   {
     title: "Heróis da Fé",
     desc: "Exemplos de coragem como Davi e Daniel.",
     color: "bg-brand-purple-light",
     border: "border-t-[#6A1B9A]",
-    img: "https://i.postimg.cc/3Jt2NJ6R/Whats_App_Image_2026_01_21_at_12_23_15.jpg"
+    img: heroisFeImg
   },
   {
     title: "Orações",
     desc: "Orações simples e ilustradas para o dia a dia.",
     color: "bg-brand-pink-light",
     border: "border-t-[#FF1493]",
-    img: "https://i.postimg.cc/zXxTvXMh/Whats_App_Image_2026_01_21_at_12_31_44.jpg"
+    img: oracoesImg
   }
 ];
+
 
 export default function Categories() {
   return (
