@@ -74,7 +74,17 @@ export default function PostPricing() {
                 </ul>
 
                 <Button
-                  onClick={() => window.open('https://pay.lowify.com.br/checkout?product_id=PAMxOz', '_blank')}
+                  onClick={() => {
+                    if (typeof window !== 'undefined' && (window as any).fbq) {
+                      (window as any).fbq('track', 'InitiateCheckout', {
+                        content_name: 'Kit Básico',
+                        content_ids: ['kit-basico'],
+                        value: 14.90,
+                        currency: 'BRL'
+                      });
+                    }
+                    window.open('https://pay.lowify.com.br/checkout?product_id=PAMxOz', '_blank');
+                  }}
                   className="w-full bg-transparent hover:bg-blue-50 text-[#3B82F6] border-2 border-[#3B82F6] font-bold py-6 rounded-full text-xl shadow-lg uppercase mb-4"
                 >
                   Escolher Básico
@@ -117,7 +127,17 @@ export default function PostPricing() {
 
 
                 <Button
-                  onClick={() => window.open('https://pay.lowify.com.br/checkout.php?product_id=LgPbw2', '_blank')}
+                  onClick={() => {
+                    if (typeof window !== 'undefined' && (window as any).fbq) {
+                      (window as any).fbq('track', 'InitiateCheckout', {
+                        content_name: 'Kit Premium',
+                        content_ids: ['kit-premium'],
+                        value: 29.90,
+                        currency: 'BRL'
+                      });
+                    }
+                    window.open('https://pay.lowify.com.br/checkout.php?product_id=LgPbw2', '_blank');
+                  }}
                   className="w-full bg-[#FF8C00] hover:bg-[#F57C00] text-white font-black py-8 rounded-full text-lg shadow-xl uppercase mb-4 h-auto leading-none"
                 >
                   ESCOLHER PREMIUM
