@@ -69,7 +69,7 @@ export default function Categories() {
               className={`p-8 rounded-[15px] ${cat.color} ${cat.border} border-t-[5px] shadow-sm flex flex-col items-center text-center transition-all duration-300`}
             >
               <div className="mb-6 h-[150px] flex items-center justify-center">
-                <img src={cat.img} alt={cat.title} className="h-full object-contain drop-shadow-md rounded-lg" />
+                <img src={cat.img} alt={cat.title} loading="lazy" className="h-full object-contain drop-shadow-md rounded-lg" />
               </div>
 
               <h3 className="font-heading font-bold text-2xl mb-3 text-black">
