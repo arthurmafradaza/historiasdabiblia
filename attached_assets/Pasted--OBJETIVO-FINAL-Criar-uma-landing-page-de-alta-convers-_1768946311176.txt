@@ -1,0 +1,1623 @@
+🎯 OBJETIVO FINAL
+Criar uma landing page de alta conversão para venda de e-book "150 Histórias Infantis da Bíblia para Crianças", seguindo EXATAMENTE a estrutura, elementos visuais, copywriting e arquitetura de conversão da landing page de referência de atividades infantis.📐 ESTRUTURA COMPLETA DA PÁGINA (ORDEM EXATA)BLOCO 1: HEADER COM COUNTDOWN
+CARACTERÍSTICAS TÉCNICAS:
+- Barra fixa no topo da página
+- Cor de fundo: Vermelho vibrante (#FF4444 ou similar)
+- Altura: 50-60px
+- Sticky (fica fixo ao rolar)
+- Fonte: Branca, bold, centralizada
+
+CONTEÚDO:
+⏰ Oferta expira em: [CONTADOR: HH:MM:SS]
+
+TIMER:
+- Formato: Horas:Minutos:Segundos
+- Cor do timer: Branco com fundo levemente transparente
+- Fonte do timer: Monoespaçada, maior que o texto
+- Atualização: A cada segundo
+- Countdown de 6 horas (resetando automaticamente)
+
+ÍCONES:
+- Ícone de relógio/alarme antes do textoBLOCO 2: HERO SECTION (Primeira Dobra)CONTAINER PRINCIPAL:
+LAYOUT:
+- Fundo: Branco ou gradiente suave (rosa/roxo muito claro)
+- Padding: 60px (top/bottom), responsivo
+- Centralizado
+- Largura máxima: 1200pxTÍTULO PRINCIPAL:
+TEXTO:
+"MAIS DE 150 HISTÓRIAS DA BÍBLIA PARA ENSINAR VALORES CRISTÃOS BRINCANDO!"
+
+FORMATAÇÃO:
+- Fonte: Extra bold, sans-serif moderna (tipo Montserrat, Poppins)
+- Tamanho: 48-56px desktop, 32-40px mobile
+- Cor padrão: Preto (#000000 ou #1a1a1a)
+- Cor destaque "150 HISTÓRIAS": Rosa vibrante (#FF1493 ou #FF69B4)
+- Cor destaque "BRINCANDO!": Roxo (#9370DB ou similar)
+- Alinhamento: Centralizado
+- Line-height: 1.2
+- Espaçamento entre palavras: Normal
+- Caixa: Maiúsculas (uppercase) para palavras-chave
+
+HIERARQUIA VISUAL:
+"MAIS DE" - tamanho normal, preto
+"150 HISTÓRIAS" - MAIOR, rosa, bold
+"DA BÍBLIA PARA ENSINAR VALORES CRISTÃOS" - normal, preto
+"BRINCANDO!" - MAIOR, roxo, bold
+
+EFEITOS:
+- Sombra de texto sutil (opcional)
+- Sem bordasSUBTÍTULO:
+TEXTO:
+"Material pedagógico pronto para imprimir e compartilhar com crianças de 3 a 10 anos 📖✨"
+
+FORMATAÇÃO:
+- Fonte: Regular, sans-serif
+- Tamanho: 18-22px desktop, 16-18px mobile
+- Cor: Cinza escuro (#555555 ou #666666)
+- Alinhamento: Centralizado
+- Margem superior: 15px
+- Line-height: 1.5
+
+EMOJIS:
+- Usar emojis nativos: 📖 ✨
+- Posicionados naturalmente no textoMOCKUP VISUAL (Imagem Principal):
+ESPECIFICAÇÕES:
+- Posição: Centro, abaixo do subtítulo
+- Largura: 70-80% do container
+- Tipo: Mockup de e-book/caderno estilo 3D
+- Formato: PNG com transparência
+- Sombra: Drop shadow suave (#000000, 20% opacity, blur 30px)
+
+CONTEÚDO DO MOCKUP:
+- Capa do e-book com:
+  * Título: "150 Histórias da Bíblia"
+  * Ilustração de personagens bíblicos infantis (Noé, Davi, Jesus com crianças)
+  * Estilo: Colorido, infantil, amigável
+  * Ano: 2025
+  * Logo/marca
+  
+ESTILO VISUAL:
+- Espiral visível (caderno espiralado)
+- Páginas internas parcialmente visíveis
+- Cores vibrantes: azul, rosa, amarelo, verde
+- Personagens em estilo cartoon 3D
+
+CONTEXTO DO MOCKUP:
+- Pode incluir elementos flutuantes ao redor:
+  * Ícones religiosos (cruz, pomba, estrela de Belém)
+  * Coração, livro, prancheta
+  * Elementos decorativos coloridosBADGES DE CREDIBILIDADE:
+LAYOUT:
+- 4 badges em linha
+- Disposição horizontal
+- Espaçamento uniforme
+- Abaixo do mockup
+
+BADGE 1:
+Fundo: Verde claro (#E8F5E9)
+Ícone: ✅
+Texto: "Indicado por pedagogos e líderes religiosos"
+Cor texto: Verde escuro (#2E7D32)
+
+BADGE 2:
+Fundo: Azul claro (#E3F2FD)
+Ícone: ✅
+Texto: "Idades 3 a 10 anos"
+Cor texto: Azul escuro (#1565C0)
+
+BADGE 3:
+Fundo: Amarelo claro (#FFF9C4)
+Ícone: ✅
+Texto: "Prontos para imprimir"
+Cor texto: Amarelo escuro (#F57F17)
+
+BADGE 4:
+Fundo: Roxo claro (#F3E5F5)
+Ícone: ✅
+Texto: "Compatível com BNCC"
+Cor texto: Roxo escuro (#6A1B9A)
+
+ESTILO DOS BADGES:
+- Bordas arredondadas: 20-25px
+- Padding: 12px 24px
+- Fonte: 14-16px, medium
+- Ícone antes do texto
+- Sombra leve
+- Responsivo: empilhar em mobileCTA PRINCIPAL:
+BOTÃO:
+Texto: "QUERO ENSINAR VALORES CRISTÃOS! 🙏"
+
+ESTILO:
+- Cor de fundo: Rosa/roxo vibrante (#FF1493 ou gradiente)
+- Cor do texto: Branco (#FFFFFF)
+- Fonte: Bold, 18-20px
+- Padding: 18px 40px
+- Bordas arredondadas: 30px
+- Largura: Auto, centralizado
+- Max-width: 500px
+
+EFEITOS:
+- Hover: Escurecer 10%, elevar (translateY -3px)
+- Sombra: 0 4px 15px rgba(255, 20, 147, 0.4)
+- Hover shadow: 0 6px 20px rgba(255, 20, 147, 0.6)
+- Transição suave: 0.3s ease
+- Cursor: pointer
+- Transform scale: 1.02 no hover
+
+POSICIONAMENTO:
+- Margem superior: 30px
+- Centralizado horizontalmenteBLOCO 3: CATEGORIAS DE CONTEÚDOCONTAINER:
+TÍTULO DA SEÇÃO:
+"Um Tesouro de Ensinamentos em um Só Lugar 📚"
+
+Fonte: Bold, 36-42px
+Cor: Preto
+Alinhamento: Centro
+Margem inferior: 40px
+Emoji: 📚SUBTÍTULO DA SEÇÃO:
+TEXTO:
+"Mais de 150 histórias organizadas por categorias para desenvolvimento espiritual completo"
+
+Fonte: Regular, 18px
+Cor: Cinza (#666)
+Alinhamento: Centro
+Margem inferior: 50pxGRID DE CATEGORIAS:
+LAYOUT:
+- Grid: 3 colunas desktop, 2 colunas tablet, 1 coluna mobile
+- Gap: 30px
+- Cada card: Proporção 1:1 ou levemente vertical
+
+CARD 1: ANTIGO TESTAMENTO
+Cor de fundo: Amarelo (#FFF9C4 ou #FFFACD)
+Borda superior: 5px sólido amarelo escuro
+Padding: 30px
+Border-radius: 15px
+Sombra: 0 2px 10px rgba(0,0,0,0.1)
+
+Conteúdo:
+- Ícone/Imagem: Mockup de caderno "ANTIGO TESTAMENTO" ou ilustração (Arca de Noé, Tábuas da Lei)
+- Título: "Antigo Testamento"
+  * Fonte: Bold, 24px
+  * Cor: Preto
+  * Margem superior: 20px
+- Descrição: "Criação, Noé, Abraão, Moisés e mais"
+  * Fonte: Regular, 16px
+  * Cor: Cinza escuro
+  * Line-height: 1.5
+
+CARD 2: NOVO TESTAMENTO
+Cor de fundo: Azul claro (#E3F2FD ou #ADD8E6)
+Borda superior: 5px sólido azul escuro
+[Mesma estrutura do Card 1]
+
+Conteúdo:
+- Imagem: Jesus com crianças, Nascimento
+- Título: "Novo Testamento"
+- Descrição: "Nascimento de Jesus, Milagres, Parábolas"
+
+CARD 3: VALORES E VIRTUDES
+Cor de fundo: Verde claro (#E8F5E9 ou #90EE90)
+Borda superior: 5px sólido verde escuro
+[Mesma estrutura]
+
+Conteúdo:
+- Imagem: Crianças orando, coração, mãos juntas
+- Título: "Valores e Virtudes"
+- Descrição: "Amor, bondade, perdão, gratidão"
+
+CARD 4: HISTÓRIAS DE FÉ
+Cor de fundo: Roxo claro (#F3E5F5 ou #E6E6FA)
+Borda superior: 5px sólido roxo escuro
+[Mesma estrutura]
+
+Conteúdo:
+- Imagem: Davi e Golias, Daniel na cova dos leões
+- Título: "Histórias de Fé"
+- Descrição: "Davi e Golias, Daniel, Jonas"
+
+CARD 5: ORAÇÕES E SALMOS
+Cor de fundo: Rosa claro (#FCE4EC ou #FFB6C1)
+Borda superior: 5px sólido rosa escuro
+[Mesma estrutura]
+
+Conteúdo:
+- Imagem: Família orando, livro de orações aberto
+- Título: "Orações e Salmos"
+- Descrição: "Orações ilustradas para crianças"
+
+CARD 6: ATIVIDADES COMPLEMENTARES
+Cor de fundo: Laranja claro (#FFF3E0 ou #FFE4B5)
+Borda superior: 5px sólido laranja escuro
+[Mesma estrutura]
+
+Conteúdo:
+- Imagem: Criança colorindo, lápis de cor
+- Título: "Atividades Complementares"
+- Descrição: "Desenhos para colorir, jogos bíblicos"
+
+EFEITOS DOS CARDS:
+- Hover: Elevar (translateY -5px)
+- Hover shadow: 0 8px 20px rgba(0,0,0,0.15)
+- Transição: 0.3s easeBLOCO 4: SEÇÃO DE BÔNUSCONTAINER:
+COR DE FUNDO: Rosa vibrante (#FF69B4 ou gradiente rosa)
+PADDING: 60px 20px
+LARGURA: 100% (full-width)TÍTULO:
+ÍCONE: 🎁 (ícone grande, acima do texto)
+
+TEXTO:
+"Comprando hoje, você recebe também:"
+
+FORMATAÇÃO:
+- Cor: Branco
+- Fonte: Bold, 36-40px
+- Alinhamento: Centro
+- Margem inferior: 10pxSUBTÍTULO:
+TEXTO:
+"Bônus exclusivos por tempo limitado!"
+
+FORMATAÇÃO:
+- Cor: Branco (95% opacidade)
+- Fonte: Regular, 20px
+- Alinhamento: Centro
+- Margem inferior: 40pxGRID DE BÔNUS:
+LAYOUT:
+- 2 colunas desktop
+- 1 coluna mobile
+- Gap: 30px
+- Fundo de cada card: Branco
+- Border-radius: 20px
+- Padding: 30px
+- Sombra: 0 4px 15px rgba(0,0,0,0.1)
+
+CARD DE BÔNUS - ESTRUTURA:
+
+BÔNUS 1:
+Imagem mockup: Planner Devocional Infantil (caderno com calendário, ilustrações)
+Proporção: 16:9 ou quadrado
+Border-radius da imagem: 10px
+Margem inferior: 20px
+
+Título: "Planner de Devocionais Infantis"
+- Fonte: Bold, 22px
+- Cor: Preto
+- Margem inferior: 10px
+
+Descrição: "Organize momentos espirituais com seus filhos"
+- Fonte: Regular, 16px
+- Cor: Cinza escuro
+- Line-height: 1.5
+
+BÔNUS 2:
+Imagem: Cartazes com versículos coloridos
+Título: "Versículos Ilustrados para Decorar"
+Descrição: "12 pôsteres coloridos com versículos bíblicos"
+
+[Seguir mesmo padrão de formatação]
+
+ADICIONAR MAIS BÔNUS CONFORME ESTRATÉGIA:
+- Bônus 3: "Jogo da Memória Bíblico"
+- Bônus 4: "Chamadinha Personalizada"
+- Etc.BLOCO 5: TABELA DE PREÇOS (Quanto custaria separado?)CONTAINER:
+FUNDO: Branco ou cinza muito claro (#F9F9F9)
+PADDING: 60px 20px
+LARGURA MÁXIMA: 1100px
+CENTRALIZADOTÍTULO DA SEÇÃO:
+TEXTO:
+"Quanto custaria separado? 💰"
+
+FORMATAÇÃO:
+- Fonte: Bold, 38-42px
+- Cor: Preto
+- Alinhamento: Centro
+- Margem inferior: 40px
+- Emoji: 💰GRID DE ITENS:
+LAYOUT:
+- Grid: 3 colunas desktop, 2 tablet, 1 mobile
+- Gap: 20px
+
+CARD DE ITEM:
+Fundo: Branco
+Borda: 2px sólido cinza claro (#E0E0E0)
+Border-radius: 12px
+Padding: 25px
+Alinhamento: Centro
+
+Estrutura de cada card:
+1. Nome do item:
+   - Fonte: Bold, 18px
+   - Cor: Preto
+   - Margem inferior: 10px
+
+2. Preço riscado:
+   - Fonte: Bold, 24-28px
+   - Cor: Vermelho (#F44336)
+   - Text-decoration: line-through
+   - Prefixo "R$"
+
+ITENS DA LISTA (6 itens):
+
+ITEM 1:
+Nome: "150+ Histórias Bíblicas"
+Preço: ~~R$ 67,00~~
+
+ITEM 2:
+Nome: "Planner Devocional"
+Preço: ~~R$ 27,00~~
+
+ITEM 3:
+Nome: "Versículos Ilustrados"
+Preço: ~~R$ 34,90~~
+
+ITEM 4:
+Nome: "Atividades para Colorir"
+Preço: ~~R$ 25,00~~
+
+ITEM 5:
+Nome: "Guia para Pais"
+Preço: ~~R$ 35,00~~
+
+ITEM 6:
+Nome: "Suporte Pedagógico"
+Preço: ~~R$ 45,00~~BOX DE DESTAQUE - PREÇO FINAL:
+POSIÇÃO: Centralizado, abaixo do grid
+FUNDO: Rosa claro (#FFE4E1 ou #FFB6C1 com 30% opacidade)
+BORDA: 3px sólido rosa escuro
+BORDER-RADIUS: 20px
+PADDING: 40px
+LARGURA MÁXIMA: 500px
+MARGEM: 40px auto 0
+
+CONTEÚDO:
+
+Texto 1: "Valor total separado:"
+- Fonte: Regular, 18px
+- Cor: Cinza escuro
+- Alinhamento: Centro
+
+Preço Total: "~~R$ 233,90~~"
+- Fonte: Bold, 32px
+- Cor: Vermelho
+- Text-decoration: line-through
+- Alinhamento: Centro
+- Margem: 5px 0 20px
+
+Texto 2: "Seu investimento hoje:"
+- Fonte: Regular, 20px
+- Cor: Cinza escuro
+- Alinhamento: Centro
+- Margem inferior: 10px
+
+Preço Promocional: "R$ 37,90"
+- Fonte: Extra bold, 56-64px
+- Cor: Verde vibrante (#4CAF50 ou #2E7D32)
+- Alinhamento: Centro
+- Margem: 0
+
+Badge de Economia:
+"✅ Economia de R$ 196,00!"
+- Fundo: Verde claro
+- Cor texto: Verde escuro
+- Fonte: Bold, 18px
+- Padding: 10px 20px
+- Border-radius: 25px
+- Margem superior: 15px
+- Display: inline-blockBLOCO 6: RESUMO DO QUE VOCÊ RECEBECONTAINER:
+FUNDO: Verde muito claro (#E8F5E9 ou #F1F8E9)
+BORDA: 3px sólido verde (#4CAF50)
+BORDER-RADIUS: 15px
+PADDING: 40px
+LARGURA MÁXIMA: 900px
+CENTRALIZADO
+MARGEM: 60px autoTÍTULO:
+TEXTO: "Resumo do que você recebe:"
+
+FORMATAÇÃO:
+- Fonte: Bold, 28-32px
+- Cor: Verde escuro (#2E7D32)
+- Alinhamento: Centro
+- Margem inferior: 30pxLISTA DE ITENS:
+LAYOUT:
+- 2 colunas desktop
+- 1 coluna mobile
+- Gap entre itens: 15px
+
+CADA ITEM:
+Estrutura: [Ícone ✅] [Texto]
+
+Ícone:
+- ✅ (verde, 24px)
+- Margem direita: 10px
+
+Texto:
+- Fonte: Medium, 16-18px
+- Cor: Verde escuro (#1B5E20)
+- Line-height: 1.6
+
+ITENS DA LISTA:
+
+COLUNA 1:
+✅ Mais de 150 histórias prontas para contar
+✅ Desenvolve fé e valores cristãos  
+✅ Acompanha 4 bônus prontos para usar
+✅ Acesso imediato por e-mail
+✅ Risco zero com garantia de 30 dias
+
+COLUNA 2:
+✅ Material 100% em português
+✅ Formato PDF para impressão
+✅ Ilustrações coloridas e atrativas
+✅ Linguagem adaptada para crianças
+✅ Suporte pedagógico inclusoBLOCO 7: DESENVOLVIMENTO DE HABILIDADESCONTAINER:
+FUNDO: Branco ou gradiente suave
+PADDING: 60px 20pxTÍTULO:
+TEXTO: "Desenvolva a Fé com Leveza 💡"
+
+FORMATAÇÃO:
+- Fonte: Bold, 36-40px
+- Cor: Preto
+- Alinhamento: Centro
+- Margem inferior: 50px
+- Emoji: 💡GRID DE BENEFÍCIOS:
+LAYOUT:
+- 3 colunas desktop
+- 1 coluna mobile
+- Gap: 40px
+- Alinhamento: Centro em cada card
+
+CARD DE BENEFÍCIO - ESTRUTURA:
+
+Ícone/Ilustração:
+- Tamanho: 80-100px
+- Estilo: Colorido, flat design ou ilustração simples
+- Margem inferior: 20px
+- Centralizado
+
+Título do Benefício:
+- Fonte: Bold, 22-24px
+- Cor: Preto
+- Alinhamento: Centro
+- Margem inferior: 15px
+
+Descrição:
+- Fonte: Regular, 16px
+- Cor: Cinza escuro (#555)
+- Alinhamento: Centro
+- Line-height: 1.6
+- Max-width: 280px (para controlar largura do texto)
+
+BENEFÍCIO 1:
+Ícone: 📖 ou ilustração de livro aberto com cruz
+Título: "Fortalece a Fé"
+Descrição: "Histórias que ensinam sobre Deus de forma lúdica e envolvente"
+
+BENEFÍCIO 2:
+Ícone: ❤️ ou ilustração de coração
+Título: "Ensina Valores Definitivamente"
+Descrição: "Desenvolve caráter cristão e princípios morais desde cedo"
+
+BENEFÍCIO 3:
+Ícone: 🚫📱 ou ilustração de criança brincando offline
+Título: "LIVRE-SE DO VÍCIO DIGITAL"
+Descrição: "Conteúdo físico e significativo que reduz tempo de tela"BLOCO 8: COMO FUNCIONACONTAINER:
+FUNDO: Cinza muito claro (#F5F5F5)
+PADDING: 60px 20pxTÍTULO:
+TEXTO: "Como funciona? É super simples! 🚀"
+
+FORMATAÇÃO:
+- Fonte: Bold, 36-40px
+- Cor: Preto
+- Alinhamento: Centro
+- Margem inferior: 50px
+- Emoji: 🚀PASSOS (3 cards horizontais):
+LAYOUT:
+- 3 colunas desktop
+- 1 coluna mobile (empilhado)
+- Gap: 30px
+- Linha conectora entre passos (opcional, decorativa)
+
+CARD DE PASSO - ESTRUTURA:
+
+Badge Numérico:
+- Círculo com número
+- Tamanho: 60px diâmetro
+- Fundo: Gradiente ou cor sólida
+- Número: Branco, bold, 32px
+- Margem inferior: 20px
+- Centralizado
+
+Ícone Ilustrativo:
+- Círculo com fundo colorido suave
+- Tamanho: 100px
+- Ícone dentro: 50px
+- Margem inferior: 20px
+- Centralizado
+
+Título do Passo:
+- Fonte: Bold, 22px
+- Cor: Preto
+- Alinhamento: Centro
+- Margem inferior: 15px
+
+Descrição:
+- Fonte: Regular, 16px
+- Cor: Cinza escuro
+- Alinhamento: Centro
+- Line-height: 1.5
+
+PASSO 1:
+Badge: 1️⃣
+Ícone: 🔒💳 (Cadeado ou cartão de crédito)
+Cor de fundo do ícone: Verde claro (#E8F5E9)
+Cor do ícone: Verde escuro
+Título: "Pagamento Seguro"
+Descrição: "Realize o pagamento de forma 100% segura através de plataforma criptografada"
+
+PASSO 2:
+Badge: 2️⃣
+Ícone: 📧✉️ (Envelope)
+Cor de fundo: Azul claro (#E3F2FD)
+Cor do ícone: Azul escuro
+Título: "Chega no E-mail"
+Descrição: "O conteúdo é totalmente digital e, após a compra, serão enviadas as informações de acesso para seu e-mail"
+
+PASSO 3:
+Badge: 3️⃣
+Ícone: 💻✅ (Computador com check)
+Cor de fundo: Laranja claro (#FFE0B2)
+Cor do ícone: Laranja escuro
+Título: "Comece Hoje Mesmo"
+Descrição: "Baixe, imprima e use imediatamente! Acesso vitalício ao material"CTA APÓS OS PASSOS:
+BOTÃO:
+Texto: "COMEÇAR AGORA! ✨"
+
+ESTILO:
+- Fundo: Verde vibrante (#4CAF50)
+- Cor texto: Branco
+- Fonte: Bold, 20px
+- Padding: 18px 45px
+- Border-radius: 30px
+- Sombra: 0 4px 15px rgba(76, 175, 80, 0.4)
+- Largura: Auto
+- Margem: 40px auto 0
+- Centralizado
+- Max-width: 400px
+
+EFEITOS:
+- Hover: Escurecer, elevar
+- Scale 1.05 no hover
+- Transição: 0.3s easeBLOCO 9: PARA QUEM É ESTE MATERIALCONTAINER:
+FUNDO: Branco
+PADDING: 60px 20px
+LARGURA MÁXIMA: 1100px
+CENTRALIZADOTÍTULO:
+TEXTO: "Para quem é este material? 🤔"
+
+FORMATAÇÃO:
+- Fonte: Bold, 36-40px
+- Cor: Preto
+- Alinhamento: Centro
+- Margem inferior: 50px
+- Emoji: 🤔LAYOUT DE 2 COLUNAS:
+ESTRUTURA:
+- 2 colunas de igual tamanho
+- Gap: 40px
+- Desktop: lado a lado
+- Mobile: empilhado
+
+COLUNA 1 - IDEAL PARA (Verde):
+
+Container:
+- Fundo: Verde muito claro (#E8F5E9)
+- Borda: 3px sólido verde (#4CAF50)
+- Border-radius: 20px
+- Padding: 40px
+
+Título:
+Ícone: ✅ (verde, 40px)
+Texto: "Ideal para:"
+- Fonte: Bold, 26px
+- Cor: Verde escuro (#2E7D32)
+- Margem inferior: 25px
+
+Lista de Itens:
+Cada item: ✓ [Texto]
+- Ícone check: ✓ verde
+- Fonte: Medium, 17px
+- Cor: Verde escuro
+- Line-height: 2.2
+- Espaçamento entre itens: 12px
+
+ITENS:
+✓ Crianças de 3 a 10 anos
+✓ Pais que querem ensinar a Bíblia em casa
+✓ Professores de escolas dominicais
+✓ Avós que desejam compartilhar a fé
+✓ Educadores cristãos
+✓ Líderes de ministério infantil
+✓ Quem quer fortalecer valores cristãos
+
+COLUNA 2 - NÃO RECOMENDADO (Vermelho):
+
+Container:
+- Fundo: Vermelho muito claro (#FFEBEE)
+- Borda: 3px sólido vermelho (#F44336)
+- Border-radius: 20px
+- Padding: 40px
+
+Título:
+Ícone: ❌ (vermelho, 40px)
+Texto: "Não recomendado para:"
+- Fonte: Bold, 26px
+- Cor: Vermelho escuro (#C62828)
+- Margem inferior: 25px
+
+Lista de Itens:
+Cada item: ✗ [Texto]
+- Ícone X: ✗ vermelho
+- Fonte: Medium, 17px
+- Cor: Vermelho escuro
+- Line-height: 2.2
+- Espaçamento: 12px
+
+ITENS:
+✗ Crianças acima de 12 anos
+✗ Quem não deseja imprimir nada
+✗ Quem busca apenas atividades digitais interativas
+✗ Quem não tem impressora ou acesso a uma
+✗ Quem prefere apenas jogos eletrônicos
+✗ Quem não tem tempo para acompanhar a criançaBLOCO 10: GALERIA DE PREVIEWCONTAINER:
+FUNDO: Gradiente suave (rosa/roxo claro) ou branco
+PADDING: 60px 20pxTÍTULO:
+TEXTO: "Algumas das Histórias que Você Vai Receber ❤️"
+
+FORMATAÇÃO:
+- Fonte: Bold, 36-40px
+- Cor: Preto
+- Alinhamento: Centro
+- Margem inferior: 50px
+- Emoji: ❤️CARROSSEL DE IMAGENS:
+ESTRUTURA:
+- Carrossel/slider responsivo
+- Exibe 1 imagem por vez em mobile
+- Exibe 3 imagens em desktop (com destaque central maior)
+- Navegação: Setas laterais + dots indicadores
+
+CONFIGURAÇÃO DO SLIDER:
+- Botões: Círculos brancos com sombra, ícones < >
+- Dots: Círculos pequenos abaixo (ativo em cor, inativos em cinza)
+- Autoplay: 4 segundos
+- Transição: Slide ou fade, 0.5s
+
+IMAGENS DO CARROSSEL (Mockups):
+
+Imagem 1: "Noé e a Arca"
+- Mockup de página do e-book
+- Título visível: "A Arca de Noé"
+- Ilustração: Noé, animais, arca, arco-íris
+- Texto visível parcialmente
+
+Imagem 2: "Davi e Golias"
+- Página com ilustração de Davi com estilingue
+- Título: "Davi e o Gigante"
+- Cores: Tons de azul e marrom
+
+Imagem 3: "O Nascimento de Jesus"
+- Página com ilustração da manjedoura
+- Estrela de Belém, Maria, José, Jesus
+- Cores quentes: dourado, bege, azul celeste
+
+Imagem 4: "Jonas e a Baleia"
+- Ilustração da baleia e Jonas
+- Tons de azul oceano
+
+Imagem 5: "A Multiplicação dos Pães"
+- Jesus com crianças e cestas de pães
+- Cores vibrantes
+
+Imagem 6: "Daniel na Cova dos Leões"
+- Daniel orando com leões ao redor
+- Cores: Marrom, dourado
+
+ESTILO DAS IMAGENS:
+- Border-radius: 15px
+- Sombra: 0 4px 20px rgba(0,0,0,0.15)
+- Proporção: 3:4 (vertical, formato de página)
+- Qualidade: Alta resoluçãoBLOCO 11: SEÇÃO DE PRICING FINALCONTAINER:
+FUNDO: Coral/Salmão vibrante (#FF6B6B, #FF7F7F ou gradiente)
+PADDING: 70px 20px
+LARGURA: 100% (full-width)TÍTULO:
+TEXTO: "🎯 Oferta Especial Por Tempo Limitado! ⏰"
+
+FORMATAÇÃO:
+- Cor: Branco
+- Fonte: Extra bold, 38-44px
+- Alinhamento: Centro
+- Margem inferior: 15px
+- Emojis: 🎯 ⏰SUBTÍTULO:
+TEXTO: "Escolha o plano ideal para sua família"
+
+FORMATAÇÃO:
+- Cor: Branco (90% opacidade)
+- Fonte: Regular, 20px
+- Alinhamento: Centro
+- Margem inferior: 50pxGRID DE PLANOS:
+LAYOUT:
+- 2 colunas desktop (larguras iguais)
+- 1 coluna mobile (empilhado)
+- Gap: 30px
+- Max-width: 900px
+- CentralizadoCARD DE PLANO - ESTRUTURA GERAL:
+ESTILO:
+- Fundo: Branco
+- Border-radius: 20px
+- Padding: 40px 30px
+- Sombra: 0 8px 30px rgba(0,0,0,0.15)
+- Position: relative (para badges)PLANO 1: KIT BÁSICOHEADER DO CARD:
+
+Nome do Plano: "Kit Básico"
+- Fonte: Bold, 26px
+- Cor: Preto
+- Alinhamento: Centro
+- Margem inferior: 20px
+
+PREÇO:
+
+Container de preço:
+- Alinhamento: Centro
+
+Preço: "R$ 19,90"
+- Fonte: Extra bold, 48-56px
+- Cor: Azul (#2196F3)
+- Margem: 10px 0
+
+Parcelamento (opcional):
+"ou 2x de R$ 10,00"
+- Fonte: Regular, 14px
+- Cor: Cinza
+- Margem inferior: 25px
+
+DESCRIÇÃO:
+
+Texto: "Tudo que você precisa para começar"
+- Fonte: Regular, 16px
+- Cor: Cinza escuro
+- Alinhamento: Centro
+- Margem inferior: 30px
+
+LISTA DE BENEFÍCIOS:
+
+Container:
+- Alinhamento: Esquerda
+- Padding lateral: 20px
+
+Cada item:
+✓ [Texto]
+- Ícone: ✓ verde, 18px
+- Fonte: Regular, 15-16px
+- Cor: Cinza escuro (#333)
+- Line-height: 2
+- Margem esquerda: 5px do ícone
+
+ITENS:
+✓ +150 histórias bíblicas
+✓ Acesso imediato
+✓ Pronto para imprimir
+✓ Compatível com BNCC
+
+BOTÃO CTA:
+
+Texto: "ESCOLHER BÁSICO"
+
+Estilo:
+- Fundo: Azul (#2196F3)
+- Cor: Branco
+- Fonte: Bold, 17px
+- Padding: 16px 40px
+- Border-radius: 25px
+- Largura: 100%
+- Margem superior: 30px
+- Sombra: 0 4px 12px rgba(33, 150, 243, 0.3)
+
+Hover:
+- Escurecer fundo
+- Elevar (translateY -2px)
+- Aumentar sombraPLANO 2: KIT PREMIUM (DESTAQUE)BADGE DE DESTAQUE:
+
+Posição: Absolute, topo do card
+Texto: "MAIS ESCOLHIDO"
+- Fundo: Laranja/Vermelho (#FF5722 ou #FF6B35)
+- Cor: Branco
+- Fonte: Bold, 14px, uppercase
+- Padding: 8px 20px
+- Border-radius: 20px
+- Top: -15px
+- Left: 50%, transform translateX(-50%)
+- Sombra: 0 2px 8px rgba(255, 87, 34, 0.3)
+
+HEADER DO CARD:
+
+Nome do Plano: "Kit Premium"
+- Fonte: Bold, 28px
+- Cor: Preto
+- Alinhamento: Centro
+- Margem bottom: 20px
+
+PREÇO:
+
+Preço: "R$ 37,90"
+- Fonte: Extra bold, 52-60px
+- Cor: Laranja/Vermelho (#FF5722)
+- Margem: 10px 0
+
+Parcelamento:
+"ou 3x de R$ 12,63"
+- Fonte: Regular, 14px
+- Cor: Cinza
+
+DESCRIÇÃO:
+
+Texto: "Experiência completa + todos os bônus"
+- Fonte: Medium, 17px
+- Cor: Cinza escuro
+- Alinhamento: Centro
+- Margem bottom: 25px
+
+LISTA DE BENEFÍCIOS:
+
+✓ +150 histórias pedagógicas
+✓ Acesso imediato vitalício
+✓ Material pronto para imprimir
+✓ 100% compatível com BNCC
+
+[Mesmo estilo do plano básico]
+
+BOX DE BÔNUS (DENTRO DO CARD):
+
+Container:
+- Fundo: Amarelo claro (#FFF9C4)
+- Borda: 2px sólido amarelo escuro (#FBC02D)
+- Border-radius: 15px
+- Padding: 25px
+- Margem: 20px 0
+
+Título:
+"Todos os 4 bônus"
+- Fonte: Bold, 18px
+- Cor: Preto
+- Margem bottom: 10px
+
+Ícone: 🎁 (antes ou depois do título)
+
+Valor dos bônus:
+"R$ 126,00"
+- Fonte: Regular, 20px
+- Cor: Cinza, line-through
+- Margem bottom: 5px
+
+Badge "GRÁTIS":
+- Fundo: Verde (#4CAF50)
+- Cor: Branco
+- Fonte: Extra bold, 22px
+- Padding: 8px 30px
+- Border-radius: 20px
+- Display: inline-block
+
+BENEFÍCIOS ADICIONAIS:
+
+✓ Atendimento prioritário
+✓ Atualizações futuras inclusas
+
+[Mesmo estilo de check]
+
+BOTÃO CTA:
+
+Texto: "ESCOLHER PREMIUM"
+
+Estilo:
+- Fundo: Laranja vibrante (#FF5722)
+- Cor: Branco
+- Fonte: Bold, 18px
+- Padding: 18px 45px
+- Border-radius: 30px
+- Largura: 100%
+- Margem superior: 25px
+- Sombra: 0 6px 20px rgba(255, 87, 34, 0.4)
+
+Efeitos:
+- Hover: Pulsar levemente (scale 1.03)
+- Hover: Aumentar brilho
+- Transição: 0.3s ease
+- Cursor: pointerAVISO DE ESCASSEZ (Abaixo dos planos):CONTAINER:
+- Fundo: Amarelo (#FFD600 ou #FFC107)
+- Borda: 2px sólido laranja escuro
+- Border-radius: 10px
+- Padding: 20px 30px
+- Largura máxima: 800px
+- Centralizado
+- Margem: 40px auto 0
+
+CONTEÚDO:
+
+Ícone: ⚠️ (30px, antes do texto)
+
+Texto: "Oferta válida até hoje, 23h59 ou enquanto durar o lote atual"
+- Fonte: Bold, 18-20px
+- Cor: Preto ou marrom escuro
+- Alinhamento: Centro
+- Line-height: 1.4
+
+Subtexto: "Não perca essa oportunidade única!"
+- Fonte: Regular, 16px
+- Cor: Cinza escuro
+- Margem superior: 5pxBLOCO 12: DEPOIMENTOS (OPCIONAL)CONTAINER:
+FUNDO: Cinza claro (#F5F5F5) ou branco
+PADDING: 60px 20pxTÍTULO:
+TEXTO: "O que dizem quem já está usando ⭐"
+
+FORMATAÇÃO:
+- Fonte: Bold, 36-40px
+- Cor: Preto
+- Alinhamento: Centro
+- Margem inferior: 50pxGRID DE DEPOIMENTOS:
+LAYOUT:
+- 3 colunas desktop
+- 2 colunas tablet
+- 1 coluna mobile
+- Gap: 30px
+
+CARD DE DEPOIMENTO:
+
+Container:
+- Fundo: Branco
+- Borda: 2px sólido cinza claro
+- Border-radius: 15px
+- Padding: 30px
+- Sombra: 0 2px 10px rgba(0,0,0,0.08)
+
+Estrutura:
+
+1. Estrelas (topo):
+   ⭐⭐⭐⭐⭐ (5 estrelas douradas)
+   - Tamanho: 20px cada
+   - Cor: #FFD700
+   - Margem bottom: 15px
+
+2. Texto do depoimento:
+   - Fonte: Regular, 15-16px
+   - Cor: Cinza escuro (#444)
+   - Line-height: 1.6
+   - Estilo: Itálico (opcional)
+   - Margem bottom: 20px
+
+3. Foto + Nome (rodapé):
+   Layout flex horizontal:
+   
+   Foto:
+   - Forma: Círculo
+   - Tamanho: 50px diâmetro
+   - Border: 2px branco
+   - Sombra leve
+   - Margem right: 15px
+   
+   Nome:
+   - Fonte: Bold, 16px
+   - Cor: Preto
+   
+   Descrição:
+   - Fonte: Regular, 14px
+   - Cor: Cinza
+   - Exemplo: "Mãe de 2 filhos"
+
+EXEMPLOS DE DEPOIMENTOS:
+
+DEPOIMENTO 1:
+Texto: "Material incrível! Meus filhos adoram as histórias e pedi para ler todos os dias antes de dormir. Recomendo muito!"
+Nome: Ana Paula Santos
+Descrição: Mãe de 2 filhos
+
+DEPOIMENTO 2:
+Texto: "Como professora de escola dominical, este material é uma bênção! As crianças ficam encantadas com as ilustrações."
+Nome: Márcia Oliveira
+Descrição: Professora de Escola Dominical
+
+DEPOIMENTO 3:
+Texto: "Minha neta ama! Já imprimimos várias histórias e ela coloriu todas. Vale muito a pena!"
+Nome: Roberto Silva
+Descrição: Avô coruja
+
+[Adicionar 3-6 depoimentos similares]BLOCO 13: FAQ (Perguntas Frequentes)CONTAINER:
+FUNDO: Branco
+PADDING: 60px 20px
+LARGURA MÁXIMA: 900px
+CENTRALIZADOTÍTULO:
+TEXTO: "Perguntas Frequentes ❓"
+
+FORMATAÇÃO:
+- Fonte: Bold, 36-40px
+- Cor: Preto
+- Alinhamento: Centro
+- Margem inferior: 40pxACCORDION DE PERGUNTAS:
+ESTRUTURA:
+- Lista de perguntas expansíveis (accordion)
+- Uma pergunta aberta por vez (ou todas fechadas)
+- Transição suave: 0.3s ease
+
+ITEM DE FAQ:
+
+Container:
+- Borda bottom: 1px sólido #E0E0E0
+- Padding: 20px 0
+- Cursor: pointer (na pergunta)
+
+Pergunta:
+- Fonte: Bold, 18px
+- Cor: Preto
+- Ícone: ▼ ou + (à direita)
+- Hover: Cor muda para roxo/rosa
+- Padding right: 40px (espaço para ícone)
+
+Resposta:
+- Display: none (quando fechado)
+- Transição: Slide down
+- Fonte: Regular, 16px
+- Cor: Cinza escuro (#555)
+- Line-height: 1.6
+- Padding top: 15px
+- Padding left: 10px
+
+Ícone de expansão:
+- Posição: Absolute, direita
+- Rotação: 0deg (fechado), 180deg (aberto)
+- Transição: 0.3sPERGUNTAS E RESPOSTAS:FAQ 1:
+P: "O material é físico ou digital?"
+R: "O material é 100% digital. Você receberá os arquivos em PDF por e-mail logo após a confirmação do pagamento, podendo imprimir quantas vezes quiser."
+
+FAQ 2:
+P: "Posso imprimir quantas vezes quiser?"
+R: "Sim! Você tem direito de impressão ilimitada para uso pessoal. Pode imprimir para seus filhos, alunos ou compartilhar com sua família."
+
+FAQ 3:
+P: "É adequado para qual idade?"
+R: "O material foi desenvolvido pedagogicamente para crianças de 3 a 10 anos, com linguagem adaptada e ilustrações apropriadas para cada faixa etária."
+
+FAQ 4:
+P: "Como funciona a garantia?"
+R: "Oferecemos garantia incondicional de 30 dias. Se você não ficar satisfeito por qualquer motivo, devolvemos 100% do seu investimento, sem perguntas."
+
+FAQ 5:
+P: "Recebo atualizações do material?"
+R: "Sim! Todas as atualizações e novos conteúdos adicionados serão enviados gratuitamente para quem adquirir o Kit Premium."
+
+FAQ 6:
+P: "Tem histórias do Antigo e Novo Testamento?"
+R: "Sim! O material contempla as principais histórias do Antigo Testamento (Criação, Noé, Moisés, Davi) e do Novo Testamento (Nascimento de Jesus, Milagres, Parábolas)."
+
+FAQ 7:
+P: "O material é compatível com a BNCC?"
+R: "Sim, todo o conteúdo foi desenvolvido seguindo as diretrizes da Base Nacional Comum Curricular, especialmente no campo de experiências 'O eu, o outro e o nós'."
+
+FAQ 8:
+P: "Como recebo o material após a compra?"
+R: "Imediatamente após a confirmação do pagamento, você recebe um e-mail com o link para download de todos os arquivos. O acesso é vitalício."
+
+[Adicionar mais conforme necessário]BLOCO 14: GARANTIA (Destaque)CONTAINER:
+FUNDO: Azul escuro ou gradiente escuro (#1A237E, #283593)
+PADDING: 60px 20px
+LARGURA: 100% (full-width)BADGE DE GARANTIA:
+ELEMENTO CENTRAL:
+
+Container:
+- Fundo: Branco
+- Forma: Círculo ou selo
+- Tamanho: 200-250px
+- Centralizado
+- Sombra: 0 8px 30px rgba(0,0,0,0.3)
+- Margem bottom: 30px
+
+Conteúdo do selo:
+- Ícone: 🛡️ (60px)
+- Texto 1: "GARANTIA"
+  * Fonte: Bold, 24px
+  * Cor: Azul escuro
+- Texto 2: "30 DIAS"
+  * Fonte: Extra bold, 36px
+  * Cor: Verde (#4CAF50)
+- Texto 3: "100% Seguro"
+  * Fonte: Regular, 16px
+  * Cor: CinzaTEXTO EXPLICATIVO:
+TÍTULO:
+"Garantia Incondicional de 30 Dias"
+- Cor: Branco
+- Fonte: Bold, 32px
+- Alinhamento: Centro
+- Margem bottom: 20px
+
+DESCRIÇÃO:
+"Se você não ficar satisfeito por qualquer motivo, devolvemos 100% do seu investimento. Sem perguntas, sem complicação. Você não corre nenhum risco!"
+
+- Cor: Branco (90% opacidade)
+- Fonte: Regular, 18px
+- Alinhamento: Centro
+- Line-height: 1.6
+- Max-width: 700px
+- CentralizadoBLOCO 15: RODAPÉ (Footer)CONTAINER:
+FUNDO: Cinza escuro (#2C2C2C ou #1F1F1F)
+PADDING: 50px 20px 30px
+LARGURA: 100%CONTEÚDO:Seção 1: Logo e Descrição
+Logo/Nome do Produto:
+- "150 Histórias da Bíblia"
+- Fonte: Bold, 24px
+- Cor: Branco
+- Margem bottom: 15px
+
+Descrição curta:
+"Material pedagógico cristão para desenvolvimento espiritual de crianças"
+- Fonte: Regular, 15px
+- Cor: Cinza claro (#CCCCCC)
+- Max-width: 300pxSeção 2: Links Rápidos
+TÍTULO: "Links Úteis"
+- Fonte: Bold, 18px
+- Cor: Branco
+- Margem bottom: 15px
+
+Links:
+- Sobre o Material
+- Como Funciona
+- Depoimentos
+- Garantia
+- Contato
+
+Estilo dos links:
+- Fonte: Regular, 15px
+- Cor: Cinza claro (#BBBBBB)
+- Line-height: 2
+- Hover: Cor branca
+- Text-decoration: noneSeção 3: Contato
+TÍTULO: "Atendimento"
+- Fonte: Bold, 18px
+- Cor: Branco
+
+Informações:
+📧 suporte@150historiasbiblicas.com
+📱 WhatsApp: (11) 99999-9999
+
+Estilo:
+- Fonte: Regular, 15px
+- Cor: Cinza claro
+- Line-height: 2Seção 4: Redes Sociais
+ÍCONES:
+- Instagram, Facebook, Pinterest, YouTube
+- Tamanho: 35px
+- Cor: Cinza claro
+- Espaçamento: 15px entre ícones
+- Hover: Cor rosa/roxo
+- Transição: 0.3sLinha de Copyright:
+DIVISOR:
+- Linha horizontal: 1px, cinza médio (#555)
+- Margem: 30px vertical
+
+TEXTO:
+"© 2025 150 Histórias da Bíblia - Todos os direitos reservados"
+- Fonte: Regular, 14px
+- Cor: Cinza médio (#888)
+- Alinhamento: Centro
+
+Links legais:
+"Política de Privacidade | Termos de Uso | Política de Reembolso"
+- Fonte: Regular, 13px
+- Cor: Cinza médio
+- Alinhamento: Centro
+- Margem top: 10px
+- Separados por |
+- Hover: Cor clara🎨 PALETA DE CORES COMPLETACORES PRIMÁRIAS:
+- Rosa Vibrante: #FF1493, #FF69B4
+- Roxo: #9370DB, #8B4789
+- Azul Céu: #87CEEB, #5DADE2
+- Verde: #4CAF50, #2E7D32
+- Laranja: #FF5722, #FF6B35
+
+CORES SECUNDÁRIAS:
+- Amarelo: #FFD700, #FFC107, #FFF9C4
+- Verde Menta: #98D8C8, #81C784
+- Coral/Salmão: #FF6B6B, #FF7F7F
+- Azul: #2196F3, #1976D2
+- Vermelho: #F44336, #E53935
+
+CORES NEUTRAS:
+- Branco: #FFFFFF
+- Cinza Muito Claro: #F5F5F5, #F9F9F9
+- Cinza Claro: #E0E0E0, #EEEEEE
+- Cinza Médio: #999999, #888888
+- Cinza Escuro: #555555, #444444, #333333
+- Preto: #000000, #1A1A1A, #2C2C2C
+
+CORES DE FUNDOS PASTEL:
+- Rosa Claro: #FFE4E1, #FCE4EC
+- Roxo Claro: #F3E5F5, #E1BEE7
+- Azul Claro: #E3F2FD, #BBDEFB
+- Verde Claro: #E8F5E9, #C8E6C9
+- Amarelo Claro: #FFF9C4, #FFF59D
+- Laranja Claro: #FFE0B2, #FFCCBC
+
+CORES FUNCIONAIS:
+- Sucesso: #4CAF50
+- Erro: #F44336
+- Aviso: #FFC107
+- Info: #2196F3📝 TIPOGRAFIAFAMÍLIA DE FONTES (Prioridade):
+1. Montserrat (Google Fonts) - Títulos
+2. Poppins (Google Fonts) - Títulos alternativos
+3. Nunito (Google Fonts) - Corpo de texto
+4. Inter (Google Fonts) - Texto regular
+5. Sans-serif - Fallback
+
+HIERARQUIA:
+H1 (Hero): 48-56px, Extra Bold
+H2 (Seções): 36-42px, Bold
+H3 (Sub-seções): 28-32px, Bold
+H4 (Cards): 22-26px, Bold
+Body Large: 18-20px, Regular
+Body: 16-18px, Regular
+Small: 14-15px, Regular
+Tiny: 12-13px, Regular
+
+PESOS:
+- Regular: 400
+- Medium: 500
+- Semi-bold: 600
+- Bold: 700
+- Extra Bold: 800-900
+
+LINE-HEIGHT:
+- Títulos: 1.2-1.3
+- Corpo: 1.5-1.6
+- Parágrafos: 1.6-1.8
+
+ESPAÇAMENTO:
+- Letter-spacing títulos: -0.5px a 0px
+- Letter-spacing corpo: 0px a 0.3px🖼️ DIRETRIZES DE IMAGENSILUSTRAÇÕES:
+ESTILO:
+- 3D cartoon suave (tipo Pixar kids)
+- Ou flat design colorido
+- Ou ilustrações vetoriais com gradientes suaves
+
+CARACTERÍSTICAS:
+- Cores vibrantes e saturadas
+- Personagens com rostos expressivos e amigáveis
+- Proporções levemente exageradas (olhos grandes, cabeças maiores)
+- Sem detalhes assustadores ou sombrios
+- Estilo inclusivo (diversidade representada)
+
+PERSONAGENS BÍBLICOS:
+- Noé: Homem idoso de barba, túnica, animais ao redor
+- Davi: Menino/jovem com estilingue, ovelhas
+- Moisés: Idoso de barba branca, cajado, tábuas
+- Jesus: Jovem de cabelos longos, túnica clara, sorridente, com crianças
+- Maria: Jovem mulher, véu azul, terna
+- José: Homem de barba, túnica marrom/bege
+
+CENÁRIOS:
+- Arca de Noé: Grande barco de madeira, arco-íris, animais
+- Cova dos leões: Caverna, Daniel, leões tranquilos
+- Manjedoura: Estábulo, estrela brilhante, animais da fazenda
+- Mar vermelho: Ondas altas, povo atravessando
+
+MOCKUPS:
+FORMATO:
+- PNG com transparência
+- Alta resolução: mínimo 1500px de largura
+- Otimização: Web (compressed)
+
+TIPOS:
+- E-book em tablet/iPad
+- Caderno espiralado em 3D
+- Páginas abertas do material
+- Stack de vários cadernos
+
+ELEMENTOS:
+- Espiral de caderno visível
+- Páginas com leve curvatura
+- Sombras realistas suaves
+- Reflexos sutis (opcional)🎬 ANIMAÇÕES E MICROINTERAÇÕESHOVER EFFECTS:
+
+Botões:
+- Scale: 1.02-1.05
+- Translate Y: -2px a -4px
+- Sombra: Aumentar blur e spread
+- Duração: 0.3s
+- Ease: ease-in-out
+
+Cards:
+- Translate Y: -5px a -8px
+- Sombra: 0 8px 20px rgba(0,0,0,0.15)
+- Duração: 0.3s
+- Ease: ease
+
+Links:
+- Color: Transição de cor
+- Underline: Aparecer/crescer
+- Duração: 0.2s
+
+Imagens:
+- Scale: 1.05
+- Brightness: 1.1
+- Duração: 0.4s
+
+SCROLL ANIMATIONS (Opcional):
+
+Fade In:
+- Opacity: 0 → 1
+- Translate Y: 30px → 0
+- Duração: 0.6s
+- Delay: Escalonado por elemento
+
+Slide In:
+- Translate X: -50px → 0 (esquerda)
+- Translate X: 50px → 0 (direita)
+- Opacity: 0 → 1
+- Duração: 0.7s
+
+Counter Animation:
+- Números (countdown, preços)
+- Easing: ease-out
+- Duração: 1-2s
+
+LOADING STATES:
+
+Skeleton screens:
+- Placeholders animados
+- Shimmer effect
+- Cor: Gradiente cinza claro
+
+Spinners:
+- Circular
+- Cor: Rosa/roxo
+- Tamanho: 40px📱 RESPONSIVIDADEBREAKPOINTS:
+
+Mobile Small: 320px - 480px
+Mobile: 481px - 768px
+Tablet: 769px - 1024px
+Desktop Small: 1025px - 1280px
+Desktop: 1281px - 1440px
+Desktop Large: 1441px+
+
+ADAPTAÇÕES POR DISPOSITIVO:
+
+MOBILE:
+- Fonte de títulos: -8 a -12px
+- Padding lateral: 20px
+- Grid: 1 coluna
+- Hero image: 90% largura
+- Botões: Largura 100% ou quase
+- Espaçamento vertical: Reduzir 30%
+
+TABLET:
+- Fonte de títulos: -4 a -6px
+- Grid: 2 colunas
+- Padding: 30-40px
+- Hero image: 70% largura
+
+DESKTOP:
+- Fonte: Tamanho padrão
+- Grid: 3 colunas
+- Max-width containers: 1200px
+- Padding: 60px
+- Hero image: 60-70% largura
+
+IMAGENS:
+- Lazy loading
+- Srcset para diferentes resoluções
+- WebP com fallback para JPEG/PNG
+- Compressão: 80-85% qualidade🧰 COMPONENTES REUTILIZÁVEISBOTÃO PRIMÁRIO:
+<button class="btn-primary">
+  [Texto] [Emoji]
+</button>
+
+CSS:
+- Background: Gradiente rosa/roxo ou cor sólida
+- Color: white
+- Padding: 18px 40px
+- Border-radius: 30px
+- Font: Bold, 18px
+- Box-shadow: Dependente da cor
+- Transition: 0.3s ease
+- Hover: Scale, shadow, brightness
+
+BOTÃO SECUNDÁRIO:
+- Background: Branco
+- Color: Rosa/roxo
+- Border: 2px sólido rosa/roxo
+- Outros: Igual ao primário
+
+BADGE:
+<span class="badge badge-[color]">
+  [Ícone] [Texto]
+</span>
+
+CSS:
+- Padding: 8px 16px
+- Border-radius: 20px
+- Font: Medium, 14px
+- Display: inline-flex
+- Align-items: center
+- Gap: 5px
+
+CARD:
+<div class="card">
+  <img class="card-image" />
+  <h3 class="card-title"></h3>
+  <p class="card-description"></p>
+</div>
+
+CSS:
+- Background: white
+- Border-radius: 15px
+- Padding: 30px
+- Box-shadow: Suave
+- Transition: Hover
+
+SECTION WRAPPER:
+<section class="section-wrapper">
+  <div class="container">
+    [Conteúdo]
+  </div>
+</section>
+
+CSS:
+- Padding: 60px 20px
+- Container max-width: 1200px
+- Container margin: 0 auto✍️ COPYWRITING - FÓRMULAS E GATILHOSFÓRMULA PRINCIPAL (PAS):
+P - Problem (Problema)
+A - Agitate (Agitar)
+S - Solve (Solucionar)
+
+GATILHOS MENTAIS USADOS:
+
+1. ESCASSEZ:
+   - "Oferta expira em [countdown]"
+   - "Últimas unidades"
+   - "Por tempo limitado"
+
+2. URGÊNCIA:
+   - Contador regressivo
+   - "Hoje, 23h59"
+   - "Não perca"
+
+3. PROVA SOCIAL:
+   - Depoimentos
+   - "Indicado por pedagogos"
+   - "Milhares de famílias já usam"
+
+4. AUTORIDADE:
+   - "Compatível com BNCC"
+   - "Aprovado por especialistas"
+   - "Base pedagógica sólida"
+
+5. RECIPROCIDADE:
+   - 4 bônus grátis
+   - Valor total vs. preço final
+   - Atualizações gratuitas
+
+6. GARANTIA/SEGURANÇA:
+   - 30 dias de garantia
+   - "Risco zero"
+   - "100% seguro"
+
+7. ECONOMIA:
+   - "Economize R$ 196,00"
+   - Preço riscado vs. promocional
+   - "78% OFF"
+
+8. ESPECIFICIDADE:
+   - "150 histórias" (não "muitas")
+   - "3 a 10 anos" (não "crianças")
+   - Valores exatos
+
+9. TRANSFORMAÇÃO:
+   - Antes/Depois implícito
+   - "Desenvolva a fé"
+   - "Ensine valores"
+
+TOM DE VOZ:
+
+CARACTERÍSTICAS:
+- Acolhedor e empático
+- Inspirador sem exagero
+- Focado em benefícios emocionais
+- Respeitoso com a fé
+- Conversacional (você/seu filho)
+- Positivo e esperançoso
+- Autêntico
+
+PALAVRAS-CHAVE:
+- Fé, valores, amor
+- Desenvolvimento espiritual
+- Ensinar, aprender
+- Família, crianças
+- Histórias, aventuras
+- Brincando, divertindo
+- Crescimento, transformação
+
+EVITAR:
+- Jargões religiosos complexos
+- Tom assustador ou pesado
+- Culpabilização
+- Promessas exageradas
+- Linguagem rebuscada🔧 ASPECTOS TÉCNICOSHTML:
+- Semântico (header, nav, main, section, article, aside, footer)
+- Acessibilidade: alt em imagens, labels em forms, ARIA quando necessário
+- Meta tags completas (title, description, OG tags)
+- Viewport configurado
+- Favicon
+
+CSS:
+- Mobile-first approach
+- Flexbox e Grid
+- CSS Variables para cores e espaçamentos
+- Normalize ou Reset CSS
+- BEM ou metodologia similar
+- Prefixos vendor quando necessário
+
+JAVASCRIPT:
+- Countdown timer funcional
+- Carrossel/slider de imagens
+- Accordion para FAQ
+- Smooth scroll para links âncora
+- Animações on scroll (IntersectionObserver)
+- Form validation (se houver formulário)
+- Analytics tracking
+
+PERFORMANCE:
+- Minificação de CSS/JS
+- Compressão de imagens (WebP + fallback)
+- Lazy loading
+- CDN para bibliotecas
+- Defer/async em scripts
+- Critical CSS inline
+
+SEO:
+- Estrutura de H1-H6 lógica
+- URLs amigáveis
+- Schema.org markup (Product, Review)
+- Sitemap
+- Robots.txt
+- Canonical tags
+
+ANALYTICS:
+- Google Analytics 4
+- Facebook Pixel (para remarketing)
+- Conversão tracking em botões CTA
+- Eventos customizados
+- Heatmaps (Hotjar ou similar - opcional)📋 CHECKLIST DE IMPLEMENTAÇÃO☐ Header com countdown configurado e funcional
+☐ Hero section com mockup de alta qualidade
+☐ Badges de credibilidade visíveis
+☐ CTA principal destacado
+☐ Grid de categorias com imagens
+☐ Seção de bônus com cards visuais
+☐ Tabela "quanto custaria separado" completa
+☐ Box de preço final com destaque
+☐ Resumo de benefícios em box verde
+☐ Grid de "desenvolva habilidades"
+☐ Seção "como funciona" com 3 passos
+☐ "Para quem é" com 2 colunas (ideal vs. não recomendado)
+☐ Galeria/carrossel de preview de histórias
+☐ Cards de pricing (básico e premium)
+☐ Badge "MAIS ESCOLHIDO" no plano premium
+☐ Box de bônus dentro do card premium
+☐ Aviso de escassez abaixo dos planos
+☐ Seção de depoimentos (3-6 cards)
+☐ FAQ com accordion funcional
+☐ Seção de garantia com selo destacado
+☐ Footer completo com links e informações
+☐ Responsividade testada em todos breakpoints
+☐ Countdown funcional e resetando
+☐ Carrossel de imagens funcionando
+☐ Todos os CTAs linkando corretamente
+☐ Formulário de captura (se houver) validado
+☐ Analytics configurado
+☐ Meta tags e SEO completos
+☐ Imagens otimizadas (WebP + fallback)
+☐ Performance testada (PageSpeed, GTmetrix)
+☐ Cross-browser testing
+☐ Accessibility audit
+☐ Links de redes sociais funcionais
+☐ Política de privacidade e termos de uso

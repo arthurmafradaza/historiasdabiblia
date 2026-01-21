@@ -1,0 +1,77 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+
+@custom-variant dark (&:is(.dark *));
+
+@theme inline {
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 20px;
+  --radius-xl: 30px;
+
+  --color-brand-red: #FF4444;
+  --color-brand-pink: #e54a9c;
+  --color-brand-pink-light: #FCE4EC;
+  --color-brand-purple: #9370DB;
+  --color-brand-purple-dark: #6A1B9A;
+  --color-brand-purple-light: #F3E5F5;
+  --color-brand-green: #2E7D32;
+  --color-brand-green-light: #E8F5E9;
+  --color-brand-blue: #1565C0;
+  --color-brand-blue-light: #E3F2FD;
+  --color-brand-yellow: #F57F17;
+  --color-brand-yellow-light: #FFF9C4;
+  --color-brand-orange: #FF9800;
+  --color-brand-orange-light: #FFF3E0;
+
+  --color-background: hsl(0 0% 100%);
+  --color-foreground: hsl(0 0% 10%);
+  
+  --color-primary: #e54a9c;
+  --color-primary-foreground: #FFFFFF;
+  
+  --color-secondary: #9370DB;
+  --color-secondary-foreground: #FFFFFF;
+  
+  --color-muted: hsl(210 40% 96.1%);
+  --color-muted-foreground: hsl(215.4 16.3% 46.9%);
+  
+  --color-accent: hsl(210 40% 96.1%);
+  --color-accent-foreground: hsl(222.2 47.4% 11.2%);
+  
+  --color-destructive: hsl(0 84.2% 60.2%);
+  --color-destructive-foreground: hsl(210 40% 98%);
+  
+  --color-border: hsl(214.3 31.8% 91.4%);
+  --color-input: hsl(214.3 31.8% 91.4%);
+  --color-ring: hsl(222.2 84% 4.9%);
+  
+  --color-card: hsl(0 0% 100%);
+  --color-card-foreground: hsl(222.2 84% 4.9%);
+
+  --font-sans: 'Poppins', sans-serif;
+  --font-heading: 'Poppins', sans-serif;
+  --font-display: 'Poppins', sans-serif;
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply font-sans antialiased bg-background text-foreground;
+  }
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-heading font-bold;
+  }
+}
+
+.text-stroke {
+  -webkit-text-stroke: 1px rgba(0,0,0,0.1);
+}
+
+.text-gradient {
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
